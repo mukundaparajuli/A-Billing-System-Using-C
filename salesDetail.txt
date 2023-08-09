@@ -1,0 +1,11 @@
+------------------------------------------------
+Cutomer's Name: Mukunda
+Customer's Age: 19
+------------------------------------------------
+Items purchased:
+Item: rice, Price: Rs123.00
+Item: bread, Price: Rs124.00
+Item: water, Price: Rs345.00
+Item: glass, Price: Rs342.00
+Total: Rs934.00
+------------------------------------------------
